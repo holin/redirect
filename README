@@ -1,0 +1,2 @@
+A chrome extension to redirect page to which determined by current page.
+For example, when I visit "http://www.dzone.com/links/pronounceable_ipv6_addresses_wpa2psk_and_hashes.html", I really want to go "http://blog.jgc.org/2011/07/pronounceable-ipv6-addresses-wpa2-psk.html" instead. Use this extension, it will do the link click automatic for me.
